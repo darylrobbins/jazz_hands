@@ -23,7 +23,6 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'pry-rails', '~> 0.3.1'
   gem.add_runtime_dependency 'pry-doc', '~> 0.4.6'
   gem.add_runtime_dependency 'pry-git', '~> 0.2.3'
-  gem.add_runtime_dependency 'pry-stack_explorer', '~> 0.4.9', :platforms => [:mri_19, :rbx]
   gem.add_runtime_dependency 'pry-remote', '>= 0.1.7'
   gem.add_runtime_dependency 'pry-debugger', '~> 0.2.2'
   gem.add_runtime_dependency 'hirb', '~> 0.7.1'
